@@ -8,4 +8,3 @@ Useful bash aliases for day-to-day work
 
 ### SSH
 * **clkh*: removes a given domain from the `known_hosts` file, useful to avoid warnings when the domain's underlying IP has changed.
-* 
